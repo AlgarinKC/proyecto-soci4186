@@ -1,1 +1,3 @@
-Esta carpeta contiene los archivos de la tarea proyecto tres (3), la cual está enfocada en el análisis y revisión de la literatura utilizada. Fecha de entrega 23 de octubre de 2026.
+Tarea de Proyecto 3: análisis exploratorio.
+Tema:Percepción socioeconómica y familiar de los estudiantes de la IUPI.
+Fecha: 23 de octubre de 2026
